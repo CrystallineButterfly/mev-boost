@@ -47,3 +47,4 @@ Bugs that affect the security of the Ethereum protocol in the `mev-boost`
 and `mev-boost-relay` repositories are in scope. Bugs in third-party
 dependencies are not in scope unless they result in a bug in `mev-boost` with
 demonstrable security impact.
+
